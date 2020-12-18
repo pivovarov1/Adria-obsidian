@@ -22,7 +22,7 @@
   --text-error-hover: #c9626a;
   --text-highlight-bg: rgba(140, 68, 170, 0.7); /*Marcatextos*/
   --text-selection: rgba(0, 122, 255, 0.2);     /*texto seleccionado*/
-  --text-on-accent: #4c78cc;
+  --text-on-accent: #fff; /*#4c78cc;*/
   --interactive-normal: #ff5555;
   --interactive-hover: #ffb86c;
   --interactive-accent: #ff5555;
